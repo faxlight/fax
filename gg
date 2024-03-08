@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "significant": true,
+  "outdated": false,
+  "minVersion": -1,
+  "maxVersion": -1,
+  "specificLang": [],
+  "title": [
+    {
+      "lang": "en",
+      "text": "没有"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "没有"
+    }
+  ],
+  "date": "2024.02.07",
+  "content": [
+    {
+      "lang": "en",
+      "text": "啥也没有看个几把"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "啥也没有看个几把"
+    }
+  ]
+}
